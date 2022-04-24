@@ -17,3 +17,11 @@ else:
         n1 = n2  
         n2 = nth  
         count += 1 
+        
+#input = How many terms you wants to print: 5
+#output = The fibonacci sequence of the numbers is:
+#         0
+#         1
+#         1
+#         2
+#         3
